@@ -25,9 +25,8 @@ function isSameTree(q, p) {
     
        if (!q && !p) return true;
     
-       if ((!q || !p) || (q.val != p.val)) return false;
-    
+       if ((q && p) && (q.val == p.val))    
        return isSameTree(q.left, p.left) && isSameTree(q.right, p.right);
         
-       // return false;
+       return false;
 }
