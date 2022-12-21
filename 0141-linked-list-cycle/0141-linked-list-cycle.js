@@ -11,7 +11,6 @@
  * @return {boolean}
  */
 var hasCycle = function(head) {
-    let hash = {};
     let slow = head;
     let fast = head;
     
@@ -22,6 +21,6 @@ var hasCycle = function(head) {
             return true;
         }
     }
-    return false;
     
+    return false;
 };
