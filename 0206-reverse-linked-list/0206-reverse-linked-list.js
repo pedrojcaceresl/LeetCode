@@ -13,14 +13,15 @@
 //  1 2 3 4 5 6
 //   3 <-- 2 <-- 1 <-- null
 var reverseList = function(head) {
-    let current = head;
-    let next;
+    let node = head;
     let prev = null;
-    while (current) {
-        next = current.next;
-        current.next = prev;
-        prev = current;
-        current = next;
+    let next;
+    
+    while (node) {
+        next = node.next;
+        node.next = prev;
+        prev = node;
+        node = next;
     }
     return prev;
 };
