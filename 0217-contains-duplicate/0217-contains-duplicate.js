@@ -3,7 +3,6 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-
-    
-    return nums.length   !== ((new Set(nums)).size);
+    let set = new Set(nums);
+    return nums.length !== set.size;
 };
