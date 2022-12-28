@@ -11,23 +11,23 @@ var topKFrequent = function(nums, k) {
 };
 
 var getFrequencyMap = (nums) => {
-    const map = {};
+    let map = {};
     for (const num of nums) {
         map[num] = (map[num] || 0) + 1;
     }
     return map;
-};
+}
 
-const getBucket = (nums, map) => {
-    // create array with empty values of the length of nums
-    const bucket = new Array(nums.length + 1).fill().map(() => []);
-    
-    for (const [ num, count ] of Object.entries(map)) {
-        bucket[count].push(num);
-    }
-    
-    return bucket.reverse(); // O(n) time
-};
+var getBucket = (nums, map) => {
+  const bucket = new Array(nums.length + 1).fill().map(() => []);
+
+  // fill the bucket with the values of the map;
+  for (const [num, count] of Object.entries(map)) {
+    bucket[count].push(num);
+  }
+
+  return bucket.reverse(); // O(n) time
+}
 
 var getTopK = (bucket, k, topK = []) => {
     for (const count of bucket) {
