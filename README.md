@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/pedrojcaceresl/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pedrojcaceresl/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pedrojcaceresl/LeetCode/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pedrojcaceresl/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/pedrojcaceresl/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pedrojcaceresl/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pedrojcaceresl/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -74,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pedrojcaceresl/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pedrojcaceresl/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
