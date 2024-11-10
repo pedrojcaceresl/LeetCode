@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/pedrojcaceresl/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pedrojcaceresl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pedrojcaceresl/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/pedrojcaceresl/LeetCode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/pedrojcaceresl/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pedrojcaceresl/LeetCode/tree/master/0053-maximum-subarray) |
+| [0198-house-robber](https://github.com/pedrojcaceresl/LeetCode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
