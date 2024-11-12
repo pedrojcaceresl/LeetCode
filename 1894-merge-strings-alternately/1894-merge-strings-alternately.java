@@ -1,34 +1,26 @@
 class Solution {
     public String mergeAlternately(String word1, String word2) {
         
-        List<Character> merged = new ArrayList<>();
+        String result = "";
+        int j = 0;
         int i = 0;
 
-        if (word1.length() > word2.length()) {
-            for (i = 0; i < word2.length(); i++) {
-                merged.add(word1.charAt(i));
-                merged.add(word2.charAt(i));
-            }
-            while (i < word1.length()) {
-                merged.add(word1.charAt(i));
-                i++;
-            }
-        } else {
-            for (i = 0; i < word1.length(); i++) {
-                merged.add(word1.charAt(i));
-                merged.add(word2.charAt(i));
-            }
-            
-            while (i < word2.length()) {
-                merged.add(word2.charAt(i));
-                i++;
-            }
+        while (i < word1.length() && j < word2.length()) {
+            result += word1.charAt(i);
+            i++;
+            result += word2.charAt(j);
+            j++;
         }
 
-        String result = merged.stream()
-                    .map(String::valueOf)
-                    .collect(Collectors.joining());
 
+        if (i < word1.length()) {
+            result += word1.substring(j);
+        }
+
+        if (j < word2.length()) {
+            result += word2.substring(j);
+        }
+        
         return result;
     }
 }
