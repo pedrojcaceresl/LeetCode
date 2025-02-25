@@ -1,19 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        // sort the numbers
-        Arrays.sort(nums);
-        // iterate them
-        for (int i = 0; i < nums.length; i++) {
-        // verify if the number i is equal to n[i], if it's missing, return the missing number
-            int value = nums[i];
+        // suma esperada s = n(n + 1) / 2
+        int n = nums.length;
+        int expectedSum = (n * (n + 1)) / 2;
+        int actualSum = 0;
 
-            if (i != value) {
-                return i;
-            }
+        for (int num : nums) {
+            actualSum += num;
         }
-
-        // if not found, return i + 1
-        return nums.length;
-
+        // retorna suma esperada - suma actual;
+        return expectedSum - actualSum;
     }
 }
