@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pedrojcaceresl/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pedrojcaceresl/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pedrojcaceresl/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/pedrojcaceresl/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pedrojcaceresl/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pedrojcaceresl/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pedrojcaceresl/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
