@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pedrojcaceresl/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pedrojcaceresl/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2350-find-closest-number-to-zero](https://github.com/pedrojcaceresl/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pedrojcaceresl/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pedrojcaceresl/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/pedrojcaceresl/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pedrojcaceresl/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pedrojcaceresl/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
