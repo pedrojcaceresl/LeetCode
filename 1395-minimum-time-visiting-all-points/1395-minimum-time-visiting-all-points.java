@@ -1,4 +1,5 @@
 class Solution {
+    // time complexity O(n) space complexity O(1)
     public int minTimeToVisitAllPoints(int[][] points) {
         int result = 0;
 
